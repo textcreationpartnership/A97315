@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William the Third, by the Grace of God King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c. To all the nobility and gentry of our kingdoms of England, Scotland and Ireland, and to all other our loving subjects of what degree and quality soever, greeting. Whereas Richard Blome of London Gent. our cosmographical printer, hath represented unto us, that he hath undertaken the printing a new survey, or description of our cities of London and Westminster, with the liberties and parts adjacent; as also of the several American plantations ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97315</idno>
+            <idno type="STC">ESTC R175587</idno>
+            <idno type="EEBO-CITATION">43663189</idno>
+            <idno type="OCLC">ocm 43663189</idno>
+            <idno type="VID">173094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2600:2a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William the Third, by the Grace of God King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c. To all the nobility and gentry of our kingdoms of England, Scotland and Ireland, and to all other our loving subjects of what degree and quality soever, greeting. Whereas Richard Blome of London Gent. our cosmographical printer, hath represented unto us, that he hath undertaken the printing a new survey, or description of our cities of London and Westminster, with the liberties and parts adjacent; as also of the several American plantations ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our Court at Kensington the 27th day of November 1695, in the 7th year of our Reign."</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+                  <note>With: Wing (2nd ed.) B3216B, Blome, R. Proposals for the printing a description of the cities of London and Westminster ...</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blome, Richard, d. 1705. --  Description of the Cities of London and Westminster, with the Liberties and Parts adjacent.</term>
+               <term>Booksellers and bookselling --  Colportage, subscription trade, etc. --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:173094:1"/>
+            <opener>
+               <signed>
+                  <hi>WILLIAM</hi> the Third, by the Grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed>
+               <salute>To all the Nobility and Gentry of our Kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and to all other our Loving Subjects of what Degree and Quality ſoever, Greeting.</salute>
+            </opener>
+            <p>Whereas <hi>Richard Blome</hi> of <hi>London Gent.</hi> our Coſmographical Printer, hath repreſented unto us, that he hath <g ref="char:V">Ʋ</g>ndertaken the Printing a New Survey, or Deſcription of our Cities of <hi>LON<g ref="char:EOLhyphen"/>DON</hi> and <hi>WESTMINSTER,</hi> with the Liberties and Parts adjacent; as alſo of the ſeveral <hi>AMERICAN PLANTATIONS,</hi> which will be Illuſtrated with a great many uſeful Ichnographical Maps of the Reſpective Wards and Pariſhes, together with Maps of the ſeveral Plantations, and other Ornamental Scultures: The particulars of which ſaid Work, will be ſet forth in his Papers of Propoſals publiſhed in that behalf. And being given to underſtand by the Certificate of ſeveral perſons of Honour, that the ſaid Work will be of great uſe, and very acceptable to all our Loving Subjects, and eſpecially to the Curious; We have thought fit at the Humble Requeſt of the ſaid <hi>Richard Blome,</hi> to Declare our Royal Approbation of the ſaid <g ref="char:V">Ʋ</g>ndertaking; And out of our Princely deſire to promote all ſuch commendable and uſeful Works, and the better to enable him to compleat the ſame, and Collect ſuch Remarks as ſhall be thought neceſſary for that end; We do hereby earneſtly Recommend the ſaid <hi>Richard Blome,</hi> and this his <g ref="char:V">Ʋ</g>ndertaking to you, and every of you, to the end that by your Aſſiſting him in ſuch particulars as ſhall be deſired, together with your generous Sub<g ref="char:EOLhyphen"/>ſcriptions, he may be encouraged to perfect and finiſh the ſaid Work. And whereas the ſaid <hi>Richard Blome</hi> hath informed us, that he ſhall be at great expences for Printing the ſaid Work, We being willing to give him all the Encouragement ſuch a Work deſerves, Do by theſe Preſents, Grant to him the ſaid <hi>Richard Blome,</hi> his Executors, Adminiſtrators and Aſſigns our Royal Licence for the Sole Printing and Vending the ſaid Volume of the Survey, or Deſcrip<g ref="char:EOLhyphen"/>tion of our ſaid Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> with the Parts adjacent, together with the Deſcription of our American Plantations, for the full Term of fourteen years from the date hereof, ſtrictly charging and forbidding all our Subjects, within our Kingdoms and Dominions to Reprint the ſaid Books in whole, or in part, or in any other Volume, or in any Language whatſoever, or to Copy or counterfeit any of the ſaid Maps or Sculptures in the ſaid Volume, and to vend the ſame, during the aforeſaid Term of fourteen years, without the conſent and approbation of the ſaid <hi>Richard Blome,</hi> his Heirs, Executors or Aſſigns, by Writing under his or their Hands and Seals firſt obtained, as they will anſwer the contrary at their Perils; Whereof the Maſter, Wardens and Company of Stationers are to take notice, that the ſame may be entred in their Regiſter, and that due obedience be yeilded thereunto.</p>
+            <closer>
+               <dateline>Given at our Court at <hi>Kenſington</hi> 
+                  <date>the 27th day of <hi>November </hi> 1695, in the 7th year of our Reign.</date>
+               </dateline>
+               <signed>
+                  <hi>By his Majeſty's Command,</hi> WILLIAM TR<g ref="char:V">Ʋ</g>MBALL.</signed>
+            </closer>
+         </div>
+         <div type="proposals">
+            <pb facs="tcp:173094:2"/>
+            <head>
+               <hi>PROPOSALS</hi> For the Printing a Deſcription of the <hi>Cities</hi> of <hi>London</hi> and <hi>Weſtminſter,</hi> with the <hi>Liberties</hi> and <hi>Parts</hi> adjacent, according to their preſent <hi>State.</hi> And for as much as our <hi>American Plantations</hi> are of ſuch great concern in way of <hi>Trade, &amp;c.</hi> to this <hi>City</hi> and <hi>Kingdom,</hi> there ſhall be Printed a Deſcription thereof, and that according to theſe particulars, by <hi>Richard Blome,</hi> his <hi>Majeſty's Coſmographical Printer,</hi> Dwelling in <hi>New Weldſtreet,</hi> at the <hi>Green Palliſado Pails,</hi> near <hi>Clare Market;</hi> where <hi>Propoſals</hi> are delivered, and <hi>Subſcriptions</hi> taken for the ſame, and where the <hi>Work</hi> may be Inſpected <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very <hi>Tueſday</hi> and <hi>Thurſday</hi> in the Afternoons.</head>
+            <head type="sub">For avoiding of Abuſes, no <hi>Mony</hi> to be paid, without a Printed <hi>Receipt</hi> Engraven on <hi>Copper,</hi> and ſigned by the ſaid <hi>Richard Bleme.</hi>
+            </head>
+            <p>FInding that no <hi>Subject</hi> is ſo acceptable to the Generali<g ref="char:EOLhyphen"/>ty, as that which concerns the <hi>Nation,</hi> and none more wanting, more uſeful, and more Honour<g ref="char:EOLhyphen"/>able than an <hi>Hiſtorical</hi> Account of the <hi>Cities</hi> of <hi>London</hi> and <hi>Weſtminſter,</hi> as alſo of the <hi>American Plantations;</hi> as to their <hi>preſent State:</hi> But finding that this Undertaking (which by Computation will make ſo large a Polio,) could not be ſo well performed, without his Majeſty's Royal Countenance, as well from the ſeveral <hi>Officers</hi> in <hi>Church, State,</hi> and <hi>Civil Affairs,</hi> for the giving their Aſſiſtance in the Communicating of ſuch things as are neceſſary to be taken notice of for compleating the <hi>Works;</hi> as for an <hi>Encouragment</hi> by <hi>Subſcriptions;</hi> for their private <hi>Libraries,</hi> and publick <hi>Halls,</hi> or <hi>Court Rooms</hi> of the <hi>Incorporated Companies</hi> and <hi>So<g ref="char:EOLhyphen"/>cieties, &amp;c.</hi> the better to Embolden the ſaid <hi>Richard Blome</hi> to carry on ſo Chargable a <hi>Work.</hi> And upon the <hi>Humble Peti<g ref="char:EOLhyphen"/>tion</hi> of the ſaid <hi>Richard Blome</hi> for the ſame, his Majeſty (well approving of ſo Good a <hi>Work</hi>) was Graciouſly pleaſed to Grant theſe his <hi>Royal Letters Recommendatory,</hi> with his <hi>Royal Licence</hi> for the Sole <hi>Printing</hi> the ſaid <hi>Work;</hi> upon which the ſaid <hi>Richard Blome</hi> hath Undertaken the ſame, which ſhall be Digeſted into a Good <hi>Method</hi> by able <hi>Hands,</hi> and divided into three Parts, and that according to theſe particulars.</p>
+            <p>Part I. Will be a <hi>Copographical Deſcription</hi> of the ſaid <hi>Cities</hi> of <hi>London</hi> and <hi>Weſiminſter,</hi> with the Parts ad<g ref="char:EOLhyphen"/>jacent, as to their <hi>Situation, Extent, Diviſion</hi> into <hi>Wards, Liber<g ref="char:EOLhyphen"/>ties</hi> and <hi>Pariſhes;</hi> giving an Account of the <hi>Streets, Lanes. Al<g ref="char:EOLhyphen"/>lies</hi> and <hi>Courts.</hi> Of the <hi>Rivers, Aquaeducts, Gates, Poſterns, Tow<g ref="char:EOLhyphen"/>ers, Cathedrals</hi> and other <hi>Churches,</hi> the <hi>Exchanges, Cuſtom-houſe</hi> and <hi>Keys;</hi> the <hi>Colledges, Freeſchools, Halls, Hoſpitals, Priſons, Houſes</hi> of <hi>Correction,</hi> with other <hi>Buildings</hi> of note. The <hi>Inhabi<g ref="char:EOLhyphen"/>tants</hi> as to their <hi>Government, Trade</hi> and <hi>Commerce,</hi> their <hi>Ceremo<g ref="char:EOLhyphen"/>nies</hi> uſed at the <hi>Election</hi> of their <hi>Magiſtrates,</hi> with what is com<g ref="char:EOLhyphen"/>mitted to their <hi>Care</hi> and <hi>Management,</hi> as well for the 26 <hi>Wards</hi> of <hi>London,</hi> as the <hi>Liberties</hi> of <hi>Westminſter:</hi> Of the <hi>Lord Mayor, Sheriffs, Recorder, Aldermen</hi> and their <hi>Deputies,</hi> the <hi>Common-Council Men:</hi> The <hi>Steward</hi> and <hi>Head Bayliff</hi> of <hi>Weſtminſter:</hi> Of <hi>Church-wardens, Conſtables, &amp;c.</hi> with the reſpective <hi>Duties</hi> to be by them performed. The <hi>Courts</hi> of <hi>Judicature,</hi> the <hi>Judges</hi> and Chief <hi>Offices</hi> and <hi>Officers</hi> belong<g ref="char:EOLhyphen"/>ing to each <hi>Court.</hi> The <hi>Inns</hi> of <hi>Court</hi> and <hi>Chancery.</hi> The <hi>Incorporated Societies,</hi> and <hi>Companies</hi> of <hi>Merchants</hi> and <hi>Tradeſ<g ref="char:EOLhyphen"/>men,</hi> as to their <hi>Immunities, Government, Trade, &amp;c.</hi>
+            </p>
+            <p>Part II. Shall be a <hi>Geographical Deſcription</hi> of the <hi>American Plantations,</hi> belonging to the <hi>Crown</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> viz. <hi>Barbados, Antego, Mevis,</hi> and other the <hi>Cariby Iſlands, Jamaica, Bermudes, Carolina, Virginia, Maryland, Penſilvania, New England, New York, New Jerſey, &amp;c.</hi> and that in a larger manner than hitherto done, as to their <hi>Situa<g ref="char:EOLhyphen"/>tion, Climate, Extent, when firſt diſcovered, their Fertility, Commodities, Fruits, Plants, Cattle, Fowl, Fiſh, &amp;c.</hi> with a Diſcourſe of the Method of <hi>Planting,</hi> and making <hi>Sugar, Indico, Cotton, Ginger, Cocoa, &amp;c.</hi> with the great <hi>Trade</hi> to the ſaid <hi>Plantions,</hi> the great Advantages accruing thereby, with what other Improvements may be made in ſeveral of the ſaid <hi>Plantations,</hi> to the Enrichment of the <hi>Planters</hi> in parti<g ref="char:EOLhyphen"/>cular, and the <hi>Kingdom</hi> in general; with an account of the firſt and preſent <hi>Planters</hi> of note. And for the better Expla<g ref="char:EOLhyphen"/>nation, and uſe of thoſe concern'd, there ſhall be ſeveral <hi>Maps,</hi> taken from the laſt <hi>Surveys</hi> or <hi>Draughts.</hi>
+            </p>
+            <p>Part III. Viz. <hi>Honour Civil</hi> and <hi>Military;</hi> for theſe <hi>Cities</hi> being the <hi>Royal Seat</hi> and <hi>Chamber</hi> of the <hi>King,</hi> the Reſidence of the <hi>Nobility</hi> and <hi>Gentry,</hi> for the Management of the Affairs of the <hi>Nation</hi> in <hi>Peace</hi> and <hi>War,</hi> with the Grand Aſſembly of the <hi>High Court</hi> of <hi>Parliament;</hi> there ſhall be given an Account of his <hi>Majesty's Royal Preroga<g ref="char:EOLhyphen"/>tives,</hi> as extracted out of Authentick <hi>Authors;</hi> with the chief <hi>Offices</hi> and <hi>Officers</hi> of <hi>Church</hi> and <hi>State.</hi> And as his Majeſty is the Fountain of <hi>Honour,</hi> there ſhall be <hi>Chapters</hi> of each Degree of the <hi>Nobility,</hi> both <hi>Spiritual</hi> and <hi>Temporal,</hi> with their <hi>Priviledges, &amp;c.</hi> together, with a Liſt of their <hi>Names, &amp;c.</hi> according to the <hi>Parliament Roll.</hi> There ſhall be alſo given the <hi>Priviledges, &amp;c.</hi> enjoyed by the <hi>Gentry.</hi> And for the Explanation, and Illuſtration of the ſaid <hi>VVork,</hi> there ſhall be <hi>Ichnographical Maps</hi> of the <hi>Wards</hi> of <hi>London,</hi> and the <hi>Pariſhes</hi> in <hi>Weſtminſter,</hi> and Parts adjacent, taken from actu<g ref="char:EOLhyphen"/>al <hi>Surveys,</hi> by able hands, with the Additions of the <hi>Streets, Alleys</hi> and <hi>Courts, Built</hi> ſince the laſt <hi>Survey;</hi> together with <hi>Maps</hi> of the ſaid <hi>American Plantations;</hi> and other Ornamental <hi>Sculptures,</hi> as to the proſpect of Eminent <hi>Buildings, &amp;c.</hi> Which ſaid <hi>Work</hi> thus Embelliſhed, with the Labouriouſneſs in Collecting the ſeveral <hi>Remarks,</hi> by an Actual <hi>Survey</hi> of all the <hi>Streets, Lanes, Alleys, Courts, &amp;c.</hi> as to their <hi>preſent State,</hi> and dige<g ref="char:EOLhyphen"/>ſted into a <hi>Geographical Method,</hi> never yet attempted by any, cannot but render it uſeful and acceptable: Yet in this <hi>VVork</hi> not only <hi>Stow,</hi> but all <hi>Authors</hi> of Note ſhall be conſulted as to the <hi>Antiquities.</hi> For the Face of theſe <hi>Cities</hi> are ſo much altered to what they were, when <hi>Stow</hi> took his <hi>Remarks; Fields, Waſte-Grounds, Gardens,</hi> and <hi>Great Houſes</hi> being converted into <hi>Streets, Alleys, Courts, &amp;c.</hi> Nay, <hi>Streets</hi> themſelves altered, ſo that nothing can in the leaſt be made uſe of, ſave only as to the <hi>Antiquities;</hi> and what ſhall be found therein Material ſhall be conſulted, and taken notice of in their proper places; to the end that nothing tending to the Honour and Grandure of the <hi>Citys</hi> may be omitted, for the compleating the ſaid Undertaking. And as this <hi>VVork</hi> cannot but be acknowledged to be worthy of <hi>Encouragment,</hi> ſo 'tis hoped it will not be wanting: Wherefore the Undertaker <hi>Richard Blome</hi> Publiſhes theſe his <hi>Propoſals.</hi>
+            </p>
+         </div>
+         <div type="commentary_on_proposals">
+            <head>The PROPOSALS.</head>
+            <p n="1">I. Thoſe that pleaſe for the Advancement of ſo Good and Honourable a <hi>VVork,</hi> to <hi>Subſcribe</hi> and <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y to the ſaid <hi>Richard Blome,</hi> or his lawful <hi>Aſſigns</hi> Thirty five ſhillings, ſhall have one of the ſaid <hi>Books</hi> in Sheets; Fifteen ſhillings to be paid upon the delivery of a printed <hi>Receipt</hi> Engraven on <hi>Copper,</hi> and ſigned by the ſaid <hi>Richard Blome,</hi> and Twenty ſhillings upon the delivery of one of the ſaid Books in Sheets; and upon the Finiſhing publick notice ſhall be given, to the end the <hi>Subſcribers</hi> may repair for their <hi>Books,</hi> bringing with them their ſaid printed <hi>Receipts</hi> ſigned by the ſaid <hi>Richard Blome.</hi> And as a Memorial of their <hi>Encouragments,</hi> there ſhall be printed at the beginning of the <hi>Book,</hi> a <hi>Liſt</hi> of the <hi>Names</hi> and <hi>Titles</hi> of ſuch <hi>Subſcribers,</hi> that return the ſame to the ſaid <hi>Richard Blome</hi> to be ſo inſerted.</p>
+            <p n="2">II. Thoſe that pleaſe to be further <hi>Encouragers</hi> of the ſaid <hi>VVork,</hi> may have their <hi>Names, Titles</hi> and <hi>Coats</hi> of <hi>Arms</hi> (ſo as allowed by the <hi>Heralds</hi>) Engraven to a <hi>Sculp<g ref="char:EOLhyphen"/>ture,</hi> paying the Charges thereof. And ſuch as pleaſe may have the Proſpect of their <hi>Houſe</hi> Engraven, paying the Charges thereof, and ſupplying, the ſaid <hi>Richard Blome</hi> with a Draught of the ſame, and upon the <hi>Receipt</hi> of the <hi>Money</hi> for the ſame; the ſaid <hi>Richard Blome</hi> to give his <hi>Receipt,</hi> with an Obligation that the ſame ſhall be printed to the ſaid <hi>Books.</hi>
+            </p>
+            <p n="3">III. Such as procure <hi>Subſcriptions</hi> for ſix of the ſaid <hi>Books,</hi> and return the ſame to the ſaid <hi>Richard Blome,</hi> ſhall have one in Sheets <hi>gratis.</hi> 'Tis deſired, that ſuch as think fit to be <hi>Subſcribers,</hi> do return their <hi>Subſcriptions</hi> and firſt Pay<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:173094:3"/>to the ſaid <hi>Richard Blome,</hi> at his Houſe in new <hi>VVeld<g ref="char:EOLhyphen"/>ſtreet,</hi> as aforeſaid, by or before our <hi>Lady-day</hi> 1696, at which time the <hi>Book</hi> will be put into the <hi>Preſs,</hi> in order to a ſpeedy Finiſhing, hoped not to exceed <hi>Michaelmas Term</hi> 1696. The <hi>Impreſſion</hi> being intended to conſiſt but of a ſuffi<g ref="char:EOLhyphen"/>cient quantity of <hi>Books,</hi> as-to Accomodate the <hi>Subſcribers</hi> with.</p>
+            <p>And for the conveniency to ſuch as <hi>Subſcribe,</hi> the ſaid <hi>Richard Blome</hi> hath made choice of theſe following perſons to take <hi>Subſcriptions,</hi> and to receive the firſt payments, <hi>viz.</hi> Mr. <hi>Samuel Lounds,</hi> by the <hi>Savoy Gate</hi> in the <hi>Strand;</hi> Mr. <hi>Abel Roper,</hi> at the <hi>Black Boy</hi> in <hi>Fleetſtreet,</hi> againſt St. <hi>Dun<g ref="char:EOLhyphen"/>ſtans Church;</hi> Mr. <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> at the Weſt end of St. <hi>Pauls,</hi> and Mr. <hi>John Southby</hi> at the <hi>Harrow</hi> in <hi>Cornbill,</hi> Bookſellors.</p>
+            <p>And for the avoiding of miſtakes, ſuch as <hi>Subſcribe</hi> are deſired to ſe<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their <hi>Names</hi> entred down in a <hi>Subſcription Book</hi> left with each party, with their <hi>Titles</hi> and <hi>Seats,</hi> how to be taken notice of in the <hi>Book</hi> as aforeſaid, and upon their firſt Payment to take a printed <hi>Receipt,</hi> ſigned by the ſaid <hi>Richard Blome;</hi> which is to be kept, as Entituling them to a <hi>Book,</hi> which upon the <hi>Receipt</hi> thereof is to be delivered up as aforeſaid.</p>
+            <p>
+               <hi>For Advancement of the ſaid</hi> Work, <hi>I promiſe to take of the ſaid</hi> Richard Blome, <hi>his Executors, Admini<g ref="char:EOLhyphen"/>ſtrators, or lawful Aſſigns, One of the ſaid</hi> Books, <hi>and pay the Mony due according to the firſt</hi> Propoſal <hi>by me ſigned unto, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Witneſs my Hand this <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Anno Domini 169<gap reason="blank" extent="1 letter">
+                     <desc>_</desc>
+                  </gap>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>An Account of ſome <hi>Volumes Printed</hi> for the ſaid <hi>Richard Blome,</hi> dwelling in <hi>New Weldſtreet at the</hi> Green Palliſade Pails <hi>near</hi> Clare Market; which the <hi>Nobility</hi> and <hi>Gentry</hi> may be accommodated with, at eaſie Rates.</head>
+            <p>THe <hi>Hiſtory</hi> of the <hi>Did</hi> and <hi>New Teſtament,</hi> treating of the moſt re<g ref="char:EOLhyphen"/>markable Tranſactions therein, with good and uſeful <hi>Morals,</hi> for the bet<g ref="char:EOLhyphen"/>ter government of our Actions in all Conditions. To which areadded, the <hi>Travels, Voyages</hi> and <hi>Lives</hi> of the <hi>Apoſtles;</hi> with a large <hi>Hiſtorical Chronology</hi> of ſuch Matters of Note that are related in the <hi>Bible: Collected</hi> and <hi>Tranſlated</hi> by good <hi>Hands,</hi> from Authentick <hi>Authors.</hi> The whole Illuſtrated with about 240 <hi>Sculptures,</hi> of the moſt remarkable Paſſages, performed by good <hi>Artiſts,</hi> far ſurpaſſing any <hi>Collection</hi> hitherto done, to the end it may be the more accep<g ref="char:EOLhyphen"/>able to the Curious. This <hi>Work</hi> is Printed in Two <hi>Volumes</hi> in large Folio, of a fair Print, and chiefly deſigned for the Curious.</p>
+            <p>The ſaid <hi>Work</hi> is likewiſe Printed in large <hi>Octavo,</hi> with all the <hi>Sculptures,</hi> as deſigned for a more general Sale, to Inſtruct <hi>Youth,</hi> in the <hi>Hiſtorical</hi> parts of the <hi>Bible: Sculptures</hi> being lively <hi>Emblems,</hi> to imprint the ſame in their <hi>Memories.</hi>
+            </p>
+            <p>The <hi>Gentleman's Recreation</hi> in Two Parts in large Folio. The firſt, of the <hi>Liberal</hi> and <hi>Mathematical Sciences;</hi> which in a brief and clear Method treats of the <hi>Doctrin</hi> and <hi>General Parts</hi> of each <hi>Art,</hi> with <hi>Eliptical Tables</hi> engraven on <hi>Copper Plates,</hi> for the better comprehending the ſame. The Second Part at large treats of <hi>Horſmanſhip, Hawking, Hunting, Fow<g ref="char:EOLhyphen"/>ling, fiſhing</hi> and <hi>Agriculture;</hi> all being Collected from the moſt Authen<g ref="char:EOLhyphen"/>tick <hi>Authors,</hi> and the many groſs Errors therein Corrected, with great <hi>En<g ref="char:EOLhyphen"/>largments</hi> made by thoſe well Experienced therein. And for the better Expla<g ref="char:EOLhyphen"/>nation thereof great variety of uſeful <hi>Sculptures,</hi> as <hi>Nets, Engins, Traps, &amp;c.</hi> are added, for the taking of <hi>Beaſts, Fowl</hi> and <hi>Fiſh,</hi> not Publiſhed by any: Nothing material being omitted for the rendring them Compleat. The whole Illuſtrated with about 86 Ornamental <hi>Copper Plates;</hi> in Folio.</p>
+            <p>
+               <hi>Legrand's</hi> Body of <hi>Philoſophy,</hi> in Folio, according to the Principles of the Famous <hi>Renate Des Cartes,</hi> in 3 Books: The firſt, the <hi>Inſtitution</hi> in 10 Parts;
+<list>
+                  <item>1. <hi>Logick.</hi>
+                  </item>
+                  <item>2. <hi>Natural Theology.</hi>
+                  </item>
+                  <item>3. <hi>Daemonology</hi> or <hi>Created Spirits.</hi>
+                  </item>
+                  <item>4. <hi>Phyſicks</hi> or <hi>Natural Philoſophy,</hi> generally conſidered.</item>
+                  <item>5. <hi>Special Natural Philoſophy</hi> thoſe <hi>World</hi> and <hi>Heavens.</hi>
+                  </item>
+                  <item>6. Of the four great Bodies, <hi>Earth, Water, Air</hi> and <hi>Fire,</hi> and what have their riſe from them, where of <hi>Mettals</hi> and <hi>Meteors.</hi>
+                  </item>
+                  <item>7. Of <hi>Living Creatures</hi> in general, and in particular of <hi>Plants</hi> and <hi>Animals.</hi>
+                  </item>
+                  <item>8. Of <hi>Man,</hi> in reſpect of his <hi>Body.</hi>
+                  </item>
+                  <item>9. <hi>Man,</hi> as to his <hi>Mind</hi> and <hi>Soul.</hi>
+                  </item>
+                  <item>And 10. <hi>Ethicks</hi> or <hi>Moral Philoſophy,</hi> treating of <hi>Man</hi>'s right ordering his <hi>Life.</hi>
+                  </item>
+               </list> The Second Book, <hi>viz. the <hi>Hiſtory</hi>
+               </hi> of <hi>Nature,</hi> which Illuſtrates the <hi>Inſtitution,</hi> and conſiſts of great variety of <hi>Experiments</hi> relating thereto, and explained by the ſame <hi>Principles,</hi> in 9 Parts;
+<list>
+                  <item>1. Of <hi>Bodies.</hi>
+                  </item>
+                  <item>2. Of <hi>Qualities.</hi>
+                  </item>
+                  <item>3. Of the <hi>Earth</hi> and <hi>Heavens.</hi>
+                  </item>
+                  <item>4. Of the <hi>Earth, Water, Air</hi> and <hi>Fire,</hi>
+                  </item>
+                  <item>5. Of Things dug out of the <hi>Earth.</hi>
+                  </item>
+                  <item>6. Of <hi>Meteors.</hi>
+                  </item>
+                  <item>7. Of <hi>Plants.</hi>
+                  </item>
+                  <item>8. Of <hi>Animals:</hi>
+                  </item>
+                  <item>And, 9. Of <hi>Man.</hi>
+                  </item>
+               </list> The Third Book; Being a <hi>Diſſertation</hi> of the want of <hi>Senſe</hi> and <hi>Knowledge</hi> in <hi>Brute Animals,</hi> giving a <hi>Mechanical</hi> account of their <hi>Ope<g ref="char:EOLhyphen"/>rations.</hi> The whole carefully <hi>Tranſlated</hi> from the laſt <hi>Corrections, Alterations</hi> and large <hi>Additions</hi> of the ſaid Author Mr. <hi>Le Grand,</hi> never yet publiſhed: And <hi>Illuſtrated</hi> with about 96 Ornamental <hi>Sculptures,</hi> diſperſed to ſuch places as beſt admit thereof; deſigned and done by good <hi>Artiſts:</hi> Beſides the <hi>Figures</hi> and <hi>Schemes,</hi> for the Explanation of the <hi>Philoſophical Parts</hi> that require the ſame, by a <hi>Mathematical Demonſtration.</hi> Endeavoured to be ſo done, as to be of <hi>Uſe</hi> and <hi>Delight</hi> to the Curious of both <hi>Sexes.</hi>
+            </p>
+            <p>
+               <hi>Coſmography</hi> and <hi>Geography</hi> in Two Parts in Folio. The Firſt, of the Arts of <hi>Coſmography</hi> and <hi>Geography,</hi> being a <hi>Tranſlation</hi> of the much Eſteemed VARENIUS. The Second Part is a <hi>Geographical</hi> Deſcription of the <hi>World,</hi> from the <hi>Works</hi> of the Famous <hi>Geographer</hi> Monſieur SANSON; with about 100 <hi>Geographical</hi> Tables of the <hi>Kingdoms</hi> and <hi>Iſles</hi> in the <hi>World,</hi> with their Chief Places, drawn from the Maps of the ſeveral <hi>Kingdoms,</hi> which Illuſtrates this <hi>Work.</hi> And to this <hi>Impreſſion</hi> are added the <hi>County Maps</hi> of <hi>England,</hi> drawn from thoſe of <hi>Speed</hi>'s, in a ſmaller <hi>Scale.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
